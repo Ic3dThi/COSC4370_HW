@@ -125,7 +125,7 @@ int main(int argc, char* argv[]) {
 	}
 
 	//Comment out this code to use arguments to select radius size
-	radius = 150;
+	//radius = 150;
 
 	// reserve image as 2d array
 	image = new bool* [radius + 1];
