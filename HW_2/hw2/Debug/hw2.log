@@ -1,0 +1,43 @@
+﻿  hw2.cpp
+C:\Users\torgh\Documents\School\Spring 2021\COSC 4370 ICG\COSC4370_HW_1\HW_2\hw2\hw2\hw2.cpp(45,11): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\torgh\Documents\School\Spring 2021\COSC 4370 ICG\COSC4370_HW_1\HW_2\hw2\hw2\hw2.cpp(51,25): warning C4838: conversion from 'double' to 'int' requires a narrowing conversion
+C:\Users\torgh\Documents\School\Spring 2021\COSC 4370 ICG\COSC4370_HW_1\HW_2\hw2\hw2\hw2.cpp(51,25): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\torgh\Documents\School\Spring 2021\COSC 4370 ICG\COSC4370_HW_1\HW_2\hw2\hw2\hw2.cpp(51,31): warning C4838: conversion from 'double' to 'int' requires a narrowing conversion
+C:\Users\torgh\Documents\School\Spring 2021\COSC 4370 ICG\COSC4370_HW_1\HW_2\hw2\hw2\hw2.cpp(51,31): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\torgh\Documents\School\Spring 2021\COSC 4370 ICG\COSC4370_HW_1\HW_2\hw2\hw2\hw2.cpp(51,39): warning C4838: conversion from 'double' to 'int' requires a narrowing conversion
+C:\Users\torgh\Documents\School\Spring 2021\COSC 4370 ICG\COSC4370_HW_1\HW_2\hw2\hw2\hw2.cpp(51,39): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\torgh\Documents\School\Spring 2021\COSC 4370 ICG\COSC4370_HW_1\HW_2\hw2\hw2\hw2.cpp(51,48): warning C4838: conversion from 'double' to 'int' requires a narrowing conversion
+C:\Users\torgh\Documents\School\Spring 2021\COSC 4370 ICG\COSC4370_HW_1\HW_2\hw2\hw2\hw2.cpp(51,48): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\torgh\Documents\School\Spring 2021\COSC 4370 ICG\COSC4370_HW_1\HW_2\hw2\hw2\hw2.cpp(51,57): warning C4838: conversion from 'double' to 'int' requires a narrowing conversion
+C:\Users\torgh\Documents\School\Spring 2021\COSC 4370 ICG\COSC4370_HW_1\HW_2\hw2\hw2\hw2.cpp(51,57): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\torgh\Documents\School\Spring 2021\COSC 4370 ICG\COSC4370_HW_1\HW_2\hw2\hw2\hw2.cpp(51,64): warning C4838: conversion from 'double' to 'int' requires a narrowing conversion
+C:\Users\torgh\Documents\School\Spring 2021\COSC 4370 ICG\COSC4370_HW_1\HW_2\hw2\hw2\hw2.cpp(51,64): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\torgh\Documents\School\Spring 2021\COSC 4370 ICG\COSC4370_HW_1\HW_2\hw2\hw2\hw2.cpp(51,74): warning C4838: conversion from 'double' to 'int' requires a narrowing conversion
+C:\Users\torgh\Documents\School\Spring 2021\COSC 4370 ICG\COSC4370_HW_1\HW_2\hw2\hw2\hw2.cpp(51,74): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\torgh\Documents\School\Spring 2021\COSC 4370 ICG\COSC4370_HW_1\HW_2\hw2\hw2\hw2.cpp(51,83): warning C4838: conversion from 'double' to 'int' requires a narrowing conversion
+C:\Users\torgh\Documents\School\Spring 2021\COSC 4370 ICG\COSC4370_HW_1\HW_2\hw2\hw2\hw2.cpp(51,83): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\torgh\Documents\School\Spring 2021\COSC 4370 ICG\COSC4370_HW_1\HW_2\hw2\hw2\hw2.cpp(51,96): warning C4838: conversion from 'double' to 'int' requires a narrowing conversion
+C:\Users\torgh\Documents\School\Spring 2021\COSC 4370 ICG\COSC4370_HW_1\HW_2\hw2\hw2\hw2.cpp(51,96): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\torgh\Documents\School\Spring 2021\COSC 4370 ICG\COSC4370_HW_1\HW_2\hw2\hw2\hw2.cpp(54,48): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\torgh\Documents\School\Spring 2021\COSC 4370 ICG\COSC4370_HW_1\HW_2\hw2\hw2\hw2.cpp(54,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\torgh\Documents\School\Spring 2021\COSC 4370 ICG\COSC4370_HW_1\HW_2\hw2\hw2\hw2.cpp(55,17): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\torgh\Documents\School\Spring 2021\COSC 4370 ICG\COSC4370_HW_1\HW_2\hw2\hw2\hw2.cpp(65,32): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\torgh\Documents\School\Spring 2021\COSC 4370 ICG\COSC4370_HW_1\HW_2\hw2\hw2\hw2.cpp(65,23): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\torgh\Documents\School\Spring 2021\COSC 4370 ICG\COSC4370_HW_1\HW_2\hw2\hw2\hw2.cpp(69,23): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\torgh\Documents\School\Spring 2021\COSC 4370 ICG\COSC4370_HW_1\HW_2\hw2\hw2\hw2.cpp(75,36): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\torgh\Documents\School\Spring 2021\COSC 4370 ICG\COSC4370_HW_1\HW_2\hw2\hw2\hw2.cpp(75,24): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\torgh\Documents\School\Spring 2021\COSC 4370 ICG\COSC4370_HW_1\HW_2\hw2\hw2\hw2.cpp(81,37): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\torgh\Documents\School\Spring 2021\COSC 4370 ICG\COSC4370_HW_1\HW_2\hw2\hw2\hw2.cpp(81,25): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\torgh\Documents\School\Spring 2021\COSC 4370 ICG\COSC4370_HW_1\HW_2\hw2\hw2\hw2.cpp(96,34): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\torgh\Documents\School\Spring 2021\COSC 4370 ICG\COSC4370_HW_1\HW_2\hw2\hw2\hw2.cpp(96,20): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\torgh\Documents\School\Spring 2021\COSC 4370 ICG\COSC4370_HW_1\HW_2\hw2\hw2\hw2.cpp(109,35): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\torgh\Documents\School\Spring 2021\COSC 4370 ICG\COSC4370_HW_1\HW_2\hw2\hw2\hw2.cpp(109,27): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\torgh\Documents\School\Spring 2021\COSC 4370 ICG\COSC4370_HW_1\HW_2\hw2\hw2\hw2.cpp(109,20): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\torgh\Documents\School\Spring 2021\COSC 4370 ICG\COSC4370_HW_1\HW_2\hw2\hw2\hw2.cpp(110,15): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\torgh\Documents\School\Spring 2021\COSC 4370 ICG\COSC4370_HW_1\HW_2\hw2\hw2\hw2.cpp(112,35): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\torgh\Documents\School\Spring 2021\COSC 4370 ICG\COSC4370_HW_1\HW_2\hw2\hw2\hw2.cpp(112,28): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\torgh\Documents\School\Spring 2021\COSC 4370 ICG\COSC4370_HW_1\HW_2\hw2\hw2\hw2.cpp(112,20): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\torgh\Documents\School\Spring 2021\COSC 4370 ICG\COSC4370_HW_1\HW_2\hw2\hw2\hw2.cpp(113,15): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\torgh\Documents\School\Spring 2021\COSC 4370 ICG\COSC4370_HW_1\HW_2\hw2\hw2\hw2.cpp(169,12): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\torgh\Documents\School\Spring 2021\COSC 4370 ICG\COSC4370_HW_1\HW_2\hw2\hw2\hw2.cpp(191,51): warning C4244: '*=': conversion from 'double' to 'float', possible loss of data
+  hw2.vcxproj -> C:\Users\torgh\Documents\School\Spring 2021\COSC 4370 ICG\COSC4370_HW_1\HW_2\hw2\Debug\hw2.exe
