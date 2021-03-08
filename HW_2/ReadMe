@@ -2,4 +2,5 @@ COSC4370_HW_1
 Thi Tran
 1619828
 Environment is Visual Studio 2019
-Compiling through the standard Visual Studio. Make sure you have freeGlut properly installed
+Compiling through the standard Visual Studio. Make sure you have freeGlut properly installed.
+Download all files and open sln file in Visual Studio and compile
